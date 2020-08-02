@@ -19,7 +19,7 @@ public class BinarySearch {
 			} else if (a[q] > findIndexOf) {
 					r=q-1;
 			} else {
-					p=q+1;
+					p=q+1; 
 			}
 		}
 		return -1;
